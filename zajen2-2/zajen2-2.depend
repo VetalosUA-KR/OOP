@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1570703345 source:d:\code blocks\нно\zajen2-2\kontobankowe.cpp
+	"kontoBankowe.h"
+	<string>
+
+1570703346 d:\code blocks\нно\zajen2-2\kontobankowe.h
+	<iostream>
+
+1570703422 source:d:\code blocks\нно\zajen2-2\main.cpp
+	<iostream>
+	"kontoBankowe.h"
+

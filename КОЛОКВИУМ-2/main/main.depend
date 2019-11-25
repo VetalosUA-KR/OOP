@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1574626319 source:d:\св╗аю\нно\йнкнйбхсл-2\main\liczba.cpp
+	"liczba.h"
+	<iostream>
+	<cstring>
+
+1574626325 d:\св╗аю\нно\йнкнйбхсл-2\main\liczba.h
+	<iostream>
+
+1574626214 source:d:\св╗аю\нно\йнкнйбхсл-2\main\main.cpp
+	<iostream>
+	"liczba.h"
+

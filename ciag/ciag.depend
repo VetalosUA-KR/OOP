@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1571912645 source:d:\code blocks\нно\ciag\main.cpp
+	"ciag.h"
+
+1571913128 d:\code blocks\нно\ciag\ciag.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1571913223 source:d:\code blocks\нно\ciag\ciag.cpp
+	"ciag.h"
+
+1571909672 source:d:\св╗аю\нно\ciag\main.cpp
+	"ciag.h"
+
+1573726012 d:\св╗аю\нно\ciag\ciag.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+

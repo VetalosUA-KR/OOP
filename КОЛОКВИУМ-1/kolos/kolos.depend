@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1573989111 source:d:\св╗аю\нно\йнкнйбхсл-1\kolos\kolokwium.cpp
+	"Kolokwium.h"
+	<iostream>
+	<cstring>
+
+1573986144 d:\св╗аю\нно\йнкнйбхсл-1\kolos\kolokwium.h
+	<iostream>
+
+1573989076 source:d:\св╗аю\нно\йнкнйбхсл-1\kolos\main.cpp
+	<iostream>
+	<cstring>
+	"Kolokwium.h"
+

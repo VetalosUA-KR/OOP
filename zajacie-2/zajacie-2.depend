@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1570700457 source:d:\code blocks\нно\zajacie-2\wzor.cpp
+	"wzor.h"
+
+1570700840 d:\code blocks\нно\zajacie-2\wzor.h
+	<iostream>
+
+1570700650 source:d:\code blocks\нно\zajacie-2\testwzor.cpp
+	"wzor.h"
+
+1570697050 source:d:\св╗аю\нно\zajacie-2\testwzor.cpp
+	"wzor.h"
+
+1570697240 d:\св╗аю\нно\zajacie-2\wzor.h
+	<iostream>
+

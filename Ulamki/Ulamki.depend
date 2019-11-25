@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1571310651 source:d:\code blocks\нно\ulamki\main.cpp
+	<iostream>
+	"ulamek.h"
+
+1571310803 d:\code blocks\нно\ulamki\ulamek.h
+	<iostream>
+
+1571310720 source:d:\code blocks\нно\ulamki\ulamek.cpp
+	"Ulamek.h"
+	<cmath>
+

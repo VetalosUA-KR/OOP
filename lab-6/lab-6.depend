@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1574412844 source:d:\св╗аю\нно\lab-6\main.cpp
+	<iostream>
+	"planeta.h"
+	<windows.h>
+	<conio.h>
+
+1574409881 source:d:\св╗аю\нно\lab-6\plasczak.cpp
+	"plasczak.h"
+	<iostream>
+
+1574412844 d:\св╗аю\нно\lab-6\plasczak.h
+	<iostream>
+
+1574411247 source:d:\св╗аю\нно\lab-6\planeta.cpp
+	"planeta.h"
+	<iostream>
+
+1574432130 d:\св╗аю\нно\lab-6\planeta.h
+	"plasczak.h"
+	<iostream>
+
