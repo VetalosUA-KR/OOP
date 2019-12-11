@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1575579067 source:d:\св╗аю\oop\lab-7\komorka.cpp
+
+1575581236 source:d:\св╗аю\oop\lab-7\main.cpp
+	<iostream>
+	"world.h"
+
+1575578870 source:d:\св╗аю\oop\lab-7\world.cpp
+
+1575635784 d:\св╗аю\oop\lab-7\world.h
+	<iostream>
+	"komorka.h"
+
+1575580992 d:\св╗аю\oop\lab-7\komorka.h
+	<iostream>
+

@@ -11,8 +11,9 @@ class Planeta
     string nazwa;
     char mur;
     Para wymiar;
-    Plasczak* postac;
+    Plasczak* postac; /// указатель на нашего героя
 public:
+    ///в конструктор передаем указатель на героя
     Planeta(string n, char m, int x, int y, Plasczak* p);
     virtual ~Planeta() {}
     friend ostream& operator<<(ostream& os, const Planeta& P);

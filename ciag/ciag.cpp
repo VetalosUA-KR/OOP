@@ -26,6 +26,33 @@ Ciag::Ciag(int n, int min, int max) /// : n(n), min(min), max(max) {}
     }
 }
 
+Ciag & Ciag::operator = (const Ciag & C)
+{
+    if(this == &C) return *this;
+    this -> n = C.n;
+    this -> min = C.min;
+    this -> max = C.max;
+    if(n > 0)
+    {
+        this ->T = new int[C.n];
+        for(int i = 0; i < n; i++)
+        {
+            this ->T[i] = C.T[i];
+        }
+    }
+    else if(n == 0)
+    {
+        this->T = nullptr;
+    }
+    else
+    {
+        cerr<<"Nie poprawna liczba elementow"<<endl;
+        n = max = min = 0;
+        T = nullptr;
+    }
+    return *this;
+}
+
 Ciag::~Ciag() /// : n(n), min(min), max(max) {}
 {
     cout<<"Usunieto ciag"<< *this<<endl;
@@ -49,6 +76,7 @@ ostream& operator<<(ostream &os, const Ciag& C)
 
 Ciag& Ciag::operator++()
 {
+    cout<<"prefix"<<endl;
     int * tmp = new int[n + 1];
     for(int i = 0; i < n; i++)
     {
@@ -75,6 +103,7 @@ int& Ciag::operator[](unsigned int indeks)
 
 Ciag Ciag::operator++(int)
 {
+    cout<<"postfix"<<endl;
     Ciag kopia = *this;/// dziala konstruktor kopiujacy
     ++(*this);
     return kopia;

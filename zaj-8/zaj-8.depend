@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1575540186 source:d:\св╗аю\oop\zaj-8\ab.cpp
+	"ab.h"
+	<iostream>
+	<cstring>
+
+1575540186 d:\св╗аю\oop\zaj-8\ab.h
+	<iostream>
+
+1514140574 source:d:\св╗аю\oop\zaj-8\main.cpp
+	<iostream>
+

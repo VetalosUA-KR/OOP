@@ -3,7 +3,7 @@
 
 using namespace std;
 
-
+///при создании планеты на ее сразу добавляеться герой по указателю
 Planeta::Planeta(string n, char m, int x, int y, Plasczak* p)
 {
     nazwa = n;

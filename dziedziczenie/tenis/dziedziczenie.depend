@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1575488799 source:d:\св╗аю\oop\dziedziczenie\main.cpp
+	<iostream>
+	"tabtenn0.h"
+
+1575490441 d:\св╗аю\oop\dziedziczenie\tabtenn0.h
+	<string>
+
+1575490445 source:d:\св╗аю\oop\dziedziczenie\tabtenn0.cpp
+	"tabtenn0.h"
+	<iostream>
+

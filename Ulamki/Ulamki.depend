@@ -10,3 +10,15 @@
 	"Ulamek.h"
 	<cmath>
 
+1574884797 source:d:\св╗аю\oop\ulamki\main.cpp
+	<iostream>
+	"ulamek.h"
+
+1574950518 d:\св╗аю\oop\ulamki\ulamek.h
+	<iostream>
+
+1574950543 source:d:\св╗аю\oop\ulamki\ulamek.cpp
+	"ulamek.h"
+	<cmath>
+	<iostream>
+

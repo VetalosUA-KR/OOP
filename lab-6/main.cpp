@@ -18,9 +18,10 @@ void ustawKursor(int x, int y)
 int main()
 {
 
-    Plasczak Teodor("Teodor", '@');
-    Planeta Rect001("Rect001", '#', 20, 20, &Teodor);
+    Plasczak Teodor("Teodor", '@'); /// создаем нашего героя
+    Planeta Rect001("Rect001", '#', 20, 20, &Teodor); /// создаем игровое поле, в которое передаем адрес на нашего героя
 
+    /// "отрисовка"
     cout<<Rect001<<endl;
 
     char z;

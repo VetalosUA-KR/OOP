@@ -1,5 +1,5 @@
-#ifndef ULAMEK_H
-#define ULAMEK_H
+//#ifndef ULAMEK_H
+//#define ULAMEK_H
 
 #include <iostream>
 
@@ -28,4 +28,4 @@ public:
     void skroc();
 };
 
-#endif // ULAMEK_H
+//#endif // ULAMEK_H

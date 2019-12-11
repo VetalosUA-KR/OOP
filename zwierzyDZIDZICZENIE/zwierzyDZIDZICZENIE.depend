@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1575541922 source:d:\св╗аю\oop\zwierzydzidziczenie\main.cpp
+	"Zwierze.h"
+	<cstdlib>
+	<ctime>
+
+1575541896 d:\св╗аю\oop\zwierzydzidziczenie\zwierze.h
+	<iostream>
+
+1575541161 source:d:\св╗аю\oop\zwierzydzidziczenie\zwierze.cpp
+	"Zwierze.h"
+

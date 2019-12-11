@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1575493844 source:d:\св╗аю\oop\dziedziczenie\bak\brass.cpp
+	<iostream>
+	"brass.h"
+
+1514140574 source:d:\св╗аю\oop\dziedziczenie\bak\main.cpp
+	<iostream>
+
+1575493609 d:\св╗аю\oop\dziedziczenie\bak\brass.h
+	<string>
+

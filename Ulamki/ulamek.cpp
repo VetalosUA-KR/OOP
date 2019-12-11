@@ -1,6 +1,8 @@
-#include "Ulamek.h"
+#include "ulamek.h"
 #include <cmath>
+#include <iostream>
 
+using namespace std;
 
 /*
 
@@ -51,9 +53,10 @@ istream& operator>>(istream& is, Ulamek& U)
     return is;
 }
 
-/// также можно сделать отнимание
+/// ulamek + ulamek
 Ulamek Ulamek::operator+(const Ulamek& U) const
 {
+    cout<<"uk+ul"<<endl;
     return Ulamek(this->l*U.m + this->m*U.l, this->m * U.m);
 }
 
@@ -73,6 +76,7 @@ Ulamek Ulamek::operator-(const Ulamek& U) const
     return * this + (-U);
 }
 
+/// ulamek + liczba
 Ulamek Ulamek::operator+(int x) const
 {
     return *this + Ulamek(x);

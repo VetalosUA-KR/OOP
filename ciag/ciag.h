@@ -16,7 +16,7 @@ class Ciag
     int *T;
 public:
     Ciag(int n = 0, int min = 0, int max = 0);
-    Ciag & Ciag(const Ciag & C);
+    Ciag(const Ciag & C);
     virtual ~Ciag();
     friend ostream& operator<<(ostream &os, const Ciag& C);
     Ciag& operator++();   /// ++c увеличиваем размер ciag'a на 1

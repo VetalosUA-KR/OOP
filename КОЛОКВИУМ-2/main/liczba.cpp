@@ -36,6 +36,7 @@ Liczba& Liczba::operator=(const Liczba& L)
     nazwaLiczby = new char[strlen(L.nazwaLiczby)+1];
     strcpy(nazwaLiczby, L.nazwaLiczby);
     wartosc = L.wartosc;
+    return *this;
 }
 
 void Liczba::wczytajLiczbe(const char* nazwe, float liczba)

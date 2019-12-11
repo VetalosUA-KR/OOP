@@ -16,7 +16,7 @@ struct Para
 
 class Plasczak
 {
-    Para wsp;
+    Para wsp;/// текущее местоположение героя
     string imie;
     char wyglad;
 public:
