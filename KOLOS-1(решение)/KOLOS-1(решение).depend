@@ -1,13 +1,15 @@
 # depslib dependency file v1.0
-1575975959 source:d:\УЧЁБА\oop\kolos-1(решение)\main.cpp
+1576147407 source:d:\УЧЁБА\oop\kolos-1(решение)\main.cpp
 	<iostream>
 	"ryba.h"
+	<cstring>
 
-1574976508 d:\УЧЁБА\oop\kolos-1(решение)\ryba.h
+1576092331 d:\УЧЁБА\oop\kolos-1(решение)\ryba.h
 	<iostream>
 
-1575975934 source:d:\УЧЁБА\oop\kolos-1(решение)\ryba.cpp
+1576092448 source:d:\УЧЁБА\oop\kolos-1(решение)\ryba.cpp
 	"ryba.h"
 	<iostream>
 	<cstring>
+	<string>
 

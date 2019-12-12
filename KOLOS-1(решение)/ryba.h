@@ -20,6 +20,10 @@ public:
 
     Ryba & operator = (const Ryba & r);
     friend Ryba operator+(int x, Ryba& r);
+    friend Ryba operator+(Ryba& r, int x);
+    Ryba operator+(Ryba & r);
 
     void zmienZanurenie(int z);
+    void setTyp(char * t);
+    void addTyp(char * t);
 };

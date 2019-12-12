@@ -59,7 +59,6 @@ void nextGeneration(int arr[][SIZE], int size)
         for(int j = 1; j < size-1; j++)
         {
             int toAlive = 0;
-            int toDie = 0;
             //Проверяем соседей
             for(int k = i-1; k < i+2; k++)
             {

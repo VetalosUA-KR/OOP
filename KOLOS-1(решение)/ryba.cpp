@@ -51,7 +51,7 @@ istream& operator>>(istream& is, Ryba & r)
     cout<<"podaj typ -> ";
     char * bufer;
     cin>>bufer;
-    r.typ = new char [strlen(b)+1];
+    r.typ = new char [strlen(bufer)+1];
     strcpy(r.typ, bufer);
     delete [] bufer;
 
@@ -65,6 +65,34 @@ Ryba operator+(int x, Ryba& r)
     r.zanurenie += x;
     return r;
 }
+
+Ryba operator+(Ryba& r, int x)
+{
+    r.zanurenie += x;
+    return r;
+}
+
+Ryba Ryba::operator+(Ryba& r)
+{
+    Ryba tmp;
+
+    return tmp;
+}
+
+void Ryba::setTyp(char* t)
+{
+    typ = new char[strlen(t)+1];
+    strcpy(typ, t);
+}
+
+void Ryba::addTyp(char* t)
+{
+    char * buf = new char[strlen(typ)+1];
+    strcpy(buf, typ);
+
+
+}
+
 
 Ryba& Ryba::operator = (const Ryba& r)
 {
