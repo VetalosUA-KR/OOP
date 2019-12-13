@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1576147208 source:d:\св╗аю\oop\gra-zycjie\main.cpp
+1576171884 source:d:\св╗аю\oop\gra-zycjie\main.cpp
 	<iostream>
 	"plansza.h"
 	<windows.h>
@@ -12,6 +12,6 @@
 1576144613 d:\св╗аю\oop\gra-zycjie\komorka.h
 	<iostream>
 
-1576147241 source:d:\св╗аю\oop\gra-zycjie\plansza.cpp
+1576172037 source:d:\св╗аю\oop\gra-zycjie\plansza.cpp
 	"plansza.h"
 

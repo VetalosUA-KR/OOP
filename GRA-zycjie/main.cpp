@@ -25,7 +25,7 @@ int main()
     while(true)
     {
         p1.drukuj();
-        Sleep(200);
+        Sleep(100);
         p1.gra();
         ustawKursor(0,0);
     }
