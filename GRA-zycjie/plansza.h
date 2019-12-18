@@ -14,7 +14,7 @@ private:
     int ileSasiadow(int i, int j) const;
 
 public:
-    Plansza(int x = 120, int y = 100);
+    Plansza(int x = 40, int y = 40);
     Plansza(const Plansza & P);
 
     virtual ~Plansza();

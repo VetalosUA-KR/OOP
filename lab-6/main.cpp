@@ -7,6 +7,7 @@
 using namespace std;
 
 
+
 void ustawKursor(int x, int y)
 {
     COORD c;
@@ -17,6 +18,7 @@ void ustawKursor(int x, int y)
 
 int main()
 {
+    std::ios_base::sync_with_stdio(false);
 
     Plasczak Teodor("Teodor", '@'); /// создаем нашего героя
     Planeta Rect001("Rect001", '#', 20, 20, &Teodor); /// создаем игровое поле, в которое передаем адрес на нашего героя

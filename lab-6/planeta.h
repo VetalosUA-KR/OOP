@@ -24,7 +24,7 @@ public:
             !(k == L && postac->getPozycja().pozX == 1) &&
             !(k == P && postac->getPozycja().pozX == wymiar.pozX-2))
         {
-            postac -> ruch(k);
+            postac -> ruch(k);/// указателем на нашего героя вызываем функцию ruch передавая как аргумент K(направление)
         }
 
 

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1576353496 source:d:\св╗аю\oop\szablony\szablo.cpp
+
+1576354470 source:d:\св╗аю\oop\szablony\main.cpp
+	<iostream>
+	"szablo.h"
+
+1576354495 d:\св╗аю\oop\szablony\szablo.h
+	<iostream>
+
