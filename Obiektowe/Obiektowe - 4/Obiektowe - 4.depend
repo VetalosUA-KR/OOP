@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1571906715 source:d:\pliki u¿ytkownika\student\pulpit\obiektowe - 4\main.cpp
+	"ciag.h"
+
+1571906532 d:\pliki u¿ytkownika\student\pulpit\obiektowe - 4\ciag.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1571906899 source:d:\pliki u¿ytkownika\student\pulpit\obiektowe - 4\ciag.cpp
+	"ciag.h"
+
+1573719834 source:d:\00_users_data\student_pl\pulpit\obiektowe - 4\ciag.cpp
+	"ciag.h"
+
+1573719709 d:\00_users_data\student_pl\pulpit\obiektowe - 4\ciag.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1573719948 source:d:\00_users_data\student_pl\pulpit\obiektowe - 4\main.cpp
+	"ciag.h"
+

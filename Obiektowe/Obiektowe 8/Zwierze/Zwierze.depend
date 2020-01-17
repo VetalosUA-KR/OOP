@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1576140093 source:d:\00_users_data\student_pl\pulpit\obiektowe 8\zwierze\main.cpp
+	"zwierze.h"
+	<cstdlib>
+	<ctime>
+
+1576139421 d:\00_users_data\student_pl\pulpit\obiektowe 8\zwierze\zwierze.h
+	<iostream>
+

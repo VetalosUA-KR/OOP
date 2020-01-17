@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1573718798 source:d:\00_users_data\student_pl\pulpit\obiektowe - 5\main.cpp
+	"test.h"
+
+1573718798 d:\00_users_data\student_pl\pulpit\obiektowe - 5\test.h
+	<iostream>
+
+1573718537 source:d:\00_users_data\student_pl\pulpit\obiektowe - 5\test.cpp
+	"test.h"
+

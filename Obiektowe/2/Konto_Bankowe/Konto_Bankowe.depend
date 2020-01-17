@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1570696697 source:d:\pliki u¿ytkownika\student\pulpit\konto_bankowe\test.cpp
+	"konto.h"
+
+1570696697 d:\pliki u¿ytkownika\student\pulpit\konto_bankowe\konto.h
+	<iostream>
+
+1570695913 source:d:\pliki u¿ytkownika\student\pulpit\konto_bankowe\konto.cpp
+	"konto.h"
+
+1571053543 source:c:\users\user\desktop\konto_bankowe\test.cpp
+	"konto.h"
+
+1571053532 c:\users\user\desktop\konto_bankowe\konto.h
+	<iostream>
+	<string>
+
+1571053578 source:c:\users\user\desktop\konto_bankowe\konto.cpp
+	"konto.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1576744959 source:d:\00_users_data\student_pl\pulpit\obiektowe 9\main.cpp
+	"plansza.h"
+
+1576743176 d:\00_users_data\student_pl\pulpit\obiektowe 9\obiekt.h
+	<iostream>
+
+1576744935 source:d:\00_users_data\student_pl\pulpit\obiektowe 9\plansza.cpp
+	"plansza.h"
+
+1576744902 d:\00_users_data\student_pl\pulpit\obiektowe 9\plansza.h
+	"obiekt.h"
+

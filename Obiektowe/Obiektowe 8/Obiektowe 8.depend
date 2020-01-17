@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1576138500 source:d:\00_users_data\student_pl\pulpit\obiektowe 8\main.cpp
+	"ab.h"
+
+1576138313 d:\00_users_data\student_pl\pulpit\obiektowe 8\ab.h
+	<iostream>
+
+1576138313 source:d:\00_users_data\student_pl\pulpit\obiektowe 8\ab.cpp
+	"ab.h"
+

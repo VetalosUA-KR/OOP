@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1579168588 source:d:\св╗аю\oop\mrowka\main.cpp
+	<iostream>
+	"plasza.h"
+
+1579170754 d:\св╗аю\oop\mrowka\plasza.h
+	<iostream>
+

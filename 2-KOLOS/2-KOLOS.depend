@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1579201461 source:d:\св╗аю\oop\2-kolos\main.cpp
+	<iostream>
+	"punkt.h"
+	"zbior.h"
+
+1579201353 d:\св╗аю\oop\2-kolos\punkt.h
+	<iostream>
+
+1579201513 d:\св╗аю\oop\2-kolos\zbior.h
+	"punkt.h"
+	<iostream>
+

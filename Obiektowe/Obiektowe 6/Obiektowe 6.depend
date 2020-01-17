@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1574325764 source:d:\00_users_data\student_pl\pulpit\obiektowe 6\main.cpp
+	"Planeta.h"
+	<conio.h>
+	<windows.h>
+
+1574323813 d:\00_users_data\student_pl\pulpit\obiektowe 6\plaszczak.h
+	<iostream>
+
+1574324758 source:d:\00_users_data\student_pl\pulpit\obiektowe 6\planeta.cpp
+	"Planeta.h"
+
+1574325210 d:\00_users_data\student_pl\pulpit\obiektowe 6\planeta.h
+	"Plaszczak.h"
+
+1574325901 source:d:\00_users_data\student_pl\pulpit\obiektowe 6\plaszczak.cpp
+	"Plaszczak.h"
+

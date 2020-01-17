@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1570091277 source:d:\pliki u¿ytkownika\student\pulpit\obiektowe - 1\test.cpp
+	"przelacznik.h"
+
+1570091152 d:\pliki u¿ytkownika\student\pulpit\obiektowe - 1\przelacznik.h
+	<iostream>
+
+1570091235 source:d:\pliki u¿ytkownika\student\pulpit\obiektowe - 1\przelacznik.cpp
+	"przelacznik.h"
+

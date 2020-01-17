@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1576751832 source:d:\св╗аю\oop\lab-9\main.cpp
+	<iostream>
+	"plansza.h"
+
+1576751790 source:d:\св╗аю\oop\lab-9\plansza.cpp
+	"plansza.h"
+
+1576751651 d:\св╗аю\oop\lab-9\plansza.h
+	"obiekt.h"
+
+1576751123 d:\св╗аю\oop\lab-9\obiekt.h
+	<iostream>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1570694809 source:d:\pliki u¿ytkownika\student\pulpit\wzor\wzor.cpp
+	"wzor.h"
+
+1570694770 d:\pliki u¿ytkownika\student\pulpit\wzor\wzor.h
+	<iostream>
+
+1570694770 source:d:\pliki u¿ytkownika\student\pulpit\wzor\testwzor.cpp
+	"wzor.h"
+

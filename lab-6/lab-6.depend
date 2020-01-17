@@ -27,13 +27,13 @@
 1574712161 d:\св╗аю\oop\lab-6\plasczak.h
 	<iostream>
 
-1574711744 source:d:\св╗аю\oop\lab-6\main.cpp
+1576702436 source:d:\св╗аю\oop\lab-6\main.cpp
 	<iostream>
 	"planeta.h"
 	<windows.h>
 	<conio.h>
 
-1574711983 d:\св╗аю\oop\lab-6\planeta.h
+1576702569 d:\св╗аю\oop\lab-6\planeta.h
 	"plasczak.h"
 	<iostream>
 

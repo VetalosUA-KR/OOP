@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1574930233 source:d:\00_users_data\student_pl\pulpit\obiektowe 7\main.cpp
+	"plansza.h"
+	<windows.h>
+
+1574928671 d:\00_users_data\student_pl\pulpit\obiektowe 7\komorka.h
+	<iostream>
+
+1574930411 source:d:\00_users_data\student_pl\pulpit\obiektowe 7\plansza.cpp
+	"plansza.h"
+
+1574929232 d:\00_users_data\student_pl\pulpit\obiektowe 7\plansza.h
+	"komorka.h"
+	<cstdlib>
+	<ctime>
+

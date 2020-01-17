@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1513063480 source:c:\users\user\desktop\mrowka\main.cpp
+	"pane.h"
+	<windows.h>
+	<conio.h>
+
+1513062584 c:\users\user\desktop\mrowka\element.h
+	<iostream>
+
+1513063248 source:c:\users\user\desktop\mrowka\pane.cpp
+	"pane.h"
+	<windows.h>
+
+1513062396 c:\users\user\desktop\mrowka\pane.h
+	"element.h"
+
+1579285810 source:d:\св╗аю\oop\mrowka\main.cpp
+	"pane.h"
+	<windows.h>
+	<conio.h>
+
+1513062396 d:\св╗аю\oop\mrowka\pane.h
+	"element.h"
+
+1579285639 d:\св╗аю\oop\mrowka\element.h
+	<iostream>
+
+1513063248 source:d:\св╗аю\oop\mrowka\pane.cpp
+	"pane.h"
+	<windows.h>
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1571302500 source:d:\pliki u¿ytkownika\student\pulpit\obiektowe - 3\main.cpp
+	"ulamek.h"
+
+1571302229 source:d:\pliki u¿ytkownika\student\pulpit\obiektowe - 3\ulamek.cpp
+	"ulamek.h"
+
+1571302554 d:\pliki u¿ytkownika\student\pulpit\obiektowe - 3\ulamek.h
+	<iostream>
+	<cmath>
+
+1571342646 source:c:\users\user\desktop\obiektowe - 3\main.cpp
+	"ulamek.h"
+
+1571342579 c:\users\user\desktop\obiektowe - 3\ulamek.h
+	<iostream>
+	<cmath>
+
+1571342624 source:c:\users\user\desktop\obiektowe - 3\ulamek.cpp
+	"ulamek.h"
+
